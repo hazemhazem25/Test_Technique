@@ -1,0 +1,38 @@
+
+1) Explain REST
+
+REST stands for REpresentational State Transfer.
+It means when a RESTful API is called, the server will transfer to the client a representation of the state of the requested resource.
+The representation of the state can be in a JSON format, and probably for most APIs this is indeed the case. It can also be in XML or HTML format.
+
+2) Explain the architectural style for the creation of a web API (client server communication, formatting language, number of servers, etc.)
+i
+   HTTP for client server communication
+   XML/JSON as formatting language
+   Simple URI as the address for the services
+   Stateless communication
+
+3) What are the best practices when deploying an application in the cloud
+
+   Creating Agile Environments with DevOps
+   Creating a Defined Deployment Process
+   Adoption of Cloud Automation Processes and Tools
+   Security Built-Ins During Deployment
+   Applying Kaizen with SDI
+
+4) What are your best strength : infra ? DB ? web ?
+Give us detail about it 
+
+My field of expertise is web developpement, since most of my professial projects are deeply rooted into 
+every aspect of this domain meaning fullstack(frontend / backend). This deep knowlegde of the world of
+web developpement allows me to overcome serverel erros, achieve test fucntionalities and even cover the 
+design aspect of this field(web design)
+
+5) Among all the projects you have worked on. Which architecture do you enjoy the most? explain why ?
+
+the architecture that i am most found of is the client server architecture as i find it flexible meaning
+that it can be easily implemented, replaced, repaired , upgraded and relocated on a server
+without harming the client. the other reason that made me leaning toward this architecture is that it's easy
+to make a back up of it since it is stored on a server and it keeps on running smoothly despite of heavy use. 
+
+ 
